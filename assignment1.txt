@@ -1,0 +1,15 @@
+Ans1. computer is the electronic  device that stores data and process the given information and gives the output.
+      It stores the data in binary form that is 1,0. It takes the informations from the user and work accordingly.
+      Now a days it is found in differnt form such as PC, laptops, mobiles and etc.
+Ans2. RAM-Random Access Memory. It is storing device that are stored in computer. It is based on semiconductor 
+      technology and means they are relatively faster and also this are volatile in nature. Size of RAM is compact 
+      and it is faster.Also called as primary memory or main memory. If the sixe of RAM is increased then the
+      efficiency of system also increased.
+Ans3. All the datas are stored in HDD(Hard Drive Disc). HDD is non volatile drive and stores the data permanently. 
+      It ia based on magnetic technology. File is the storage space of HDD.
+      RAM alse stores but not for life long. Therefore  for further use the data should be stored in HDD.
+Ans4. The Keyboard.
+Ans5. Monitor,Printer,Speaker,Plotter etc.
+Ans6. The Mouse.
+Ans7. Binary Language.
+Ans8. Keybboard,Mouse,Scanner,Joystick etc.
